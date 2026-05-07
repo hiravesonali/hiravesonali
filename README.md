@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Sonali 👋
 
-<!--
-**hiravesonali/hiravesonali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer with 4+ years of experience building scalable, SEO-focused web applications using Vue.js, Nuxt.js, React, and TypeScript.
 
-Here are some ideas to get you started:
+Currently building:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🚀 Doratics — SEO-first website builder
+* ⚡ Modern frontend systems focused on performance, SSR, and scalable architecture
+
+## Tech Stack
+
+### Frontend
+
+Vue.js • Nuxt.js • React • Next.js • TypeScript • TailwindCSS
+
+### Backend
+
+Node.js • NitroJS • DrizzleORM • Prisma • Laravel • PostgreSQL
+
+### Tools
+
+GraphQL • Jest • Cypress • Turborepo • Cloudflare • Git
+
+## Experience
+
+* Built e-commerce storefronts serving 5M+ monthly users across 20+ countries at Expondo
+* Worked on startup products with end-to-end ownership at WittyPen
+* Building scalable frontend systems with Doratics
+
+## Current Focus
+
+* React & modern frontend architecture
+* Performance optimization
+* Fullstack TypeScript ecosystems
+
+## Connect
+
+* LinkedIn: <your-linkedin>
+* Portfolio: https://frontendqueen.com
+* Website Builder: https://doratics.com
