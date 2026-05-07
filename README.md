@@ -29,8 +29,9 @@ Node.js • NitroJS • DrizzleORM • Prisma • Laravel • PostgreSQL • Gra
 
 ## Current Focus
 
-* React & modern frontend architecture
+* React & Next.js
 * Performance optimization
+* Scalable frontend architecture
 * Full-stack TypeScript ecosystems
 
 ## Connect
