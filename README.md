@@ -1,6 +1,6 @@
 # Hi, I'm Sonali 👋
 
-Frontend Engineer with 4+ years of experience building scalable, SEO-focused web applications using Vue.js, Nuxt.js, React, Next.js, and TypeScript.
+Full-stack Engineer with 5+ years of experience building scalable, SEO-focused web applications using React, Vue.js,  Next.js, Nuxt.js, and TypeScript.
 
 Currently building:
 
@@ -11,11 +11,11 @@ Currently building:
 
 ### Frontend
 
-Vue.js • Nuxt.js • React • Next.js • TypeScript • TailwindCSS
+• React  • Vue.js • Nuxt.js  • Next.js • TypeScript • TailwindCSS
 
 ### Backend
 
-Node.js • NitroJS • DrizzleORM • Prisma • Laravel • PostgreSQL • GraphQL
+• Node.js • NitroJS • DrizzleORM • Prisma • Laravel • PostgreSQL • GraphQL
 
 ### Tools
 
