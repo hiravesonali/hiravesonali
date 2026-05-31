@@ -15,7 +15,7 @@ Currently building:
 
 ### Backend
 
-• Node.js • NitroJS • DrizzleORM • Prisma • Laravel • PostgreSQL • GraphQL
+• Node.js • NitroJS • DrizzleORM • Prisma • PostgreSQL • GraphQL
 
 ### Tools
 
