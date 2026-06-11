@@ -1,6 +1,6 @@
 # Hi, I'm Sonali 👋
 
-Full-stack Engineer with 5+ years of experience building scalable, SEO-focused web applications using React, Vue.js,  Next.js, Nuxt.js, and TypeScript.
+Full-stack Engineer with 5+ years of experience building scalable, SEO-focused web applications using React, Vue.js,  Next.js, Nuxt.js, Node.js, and TypeScript.
 
 Currently building:
 
@@ -36,6 +36,6 @@ Currently building:
 
 ## Connect
 
-* LinkedIn: https://www.linkedin.com/in/sonali-hirave-a03a96131
-* Portfolio: https://frontendqueen.com
+* LinkedIn: https://www.linkedin.com/in/sonali-hirave
+* Portfolio: https://portfolio.hiravesonali.workers.dev
 * Website Builder: https://doratics.com
