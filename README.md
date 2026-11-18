@@ -1,38 +1,24 @@
-# Hi, I'm Sonali 👋
+# Hi, I'm Sonali 👋 Full-Stack AI Engineer in Munich
 
-Full-stack Engineer with 5+ years of experience building scalable, SEO-focused web applications using React, Vue.js,  Next.js, Nuxt.js, Node.js, and TypeScript.
-
+I build LLM-powered products end to end: prompts, structured outputs, RAG, agents and evals, plus the interface on top. 5+ years shipping web products, including e-commerce platforms serving 5M+ users across 20+ countries.
 Currently building:
 
-* 🚀 [Doratics](https://doratics.com) — SEO-first website builder
-* ⚡ Modern frontend systems focused on performance, SSR, and scalable architecture
+##  🔨 What I'm building
+Hoot: AI Interview Prep (live): an AI interview coach running Claude and GPT via OpenRouter. 5 prompt techniques compared with an LLM-as-judge · layered guardrails (rules + LLM classifier, 30/31 jailbreak tests passed) · per-user spend caps · Pydantic structured outputs.
+Doratics: an SEO-first website builder for local businesses. I'm adding an AI layer for content generation, validated JSON-LD schema and RAG over business data.
+Turing College AI Engineering (Oct 2026 – Jan 2027): Python, LLM APIs, RAG, agents, evals, FastAPI, Docker.
 
-## Tech Stack
 
-### Frontend
+## 🧰 Stack
 
-• React  • Vue.js • Nuxt.js  • Next.js • TypeScript • TailwindCSS
+AI: OpenAI & Anthropic APIs · OpenRouter · Pydantic · ChromaDB · RAG · Agents · LLM-as-a-Judge · Guardrails
+Languages: Python · TypeScript · JavaScript · SQL
+Web: React · Next.js · Vue · Nuxt · Node.js · Nitro · FastAPI · Streamlit · Tailwind CSS
+Data & Infra: PostgreSQL · Drizzle ORM · Docker · Cloudflare · Vercel · GitHub Actions
 
-### Backend
+## 📫 Contact
 
-• Node.js • NitroJS • DrizzleORM • Prisma • PostgreSQL • GraphQL
-
-### Tools
-
- • Jest • Cypress • Cloudflare • Git • Figma • Datadog
-
-## Experience
-
-* Built a multilingual e-commerce storefronts serving 5M+ monthly users across 20+ countries at [Expondo](https://www.expondo.de)
-* Worked on startup products with end-to-end ownership at [WittyPen](https://wittypen.com)
-* Building scalable frontend systems with Doratics
-
-## Current Focus
-
-* React & Next.js
-* Performance optimization
-* Scalable frontend architecture
-* Full-stack TypeScript ecosystems
+LinkedIn · Portfolio · hiravesonali@gmail.com Open to Full-Stack AI / AI Application Engineer roles in Munich or remote (EU). No visa sponsorship needed.
 
 ## Connect
 
